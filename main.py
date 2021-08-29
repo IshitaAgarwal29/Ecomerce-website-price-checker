@@ -3,8 +3,8 @@ import lxml
 import smtplib
 from bs4 import BeautifulSoup
 YOUR_SMTP_ADDRESS="smtp.gmail.com"
-email = "ishita.kanpur29@gmail.com"
-password = "Ishita@29$"
+email = fill your details
+password = fill your details
 
 
 
